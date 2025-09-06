@@ -57,3 +57,4 @@ This project is under active development. Planned features include:
 -   [ ] **Player Profiles & Stats:** Track and display individual player statistics.
 -   [ ] **Public-Facing Team Creation:** Allow users to create and manage their own teams.
 -   [ ] **Advanced Data Visualization:** Incorporate libraries like Recharts or D3.js to create graphs for performance analysis.
+-   [ ] **API Caching with Redis:** Implement a Redis caching layer for frequently requested data, such as live standings, to reduce database load and improve API response times during high-traffic events.
